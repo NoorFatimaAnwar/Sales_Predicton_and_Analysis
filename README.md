@@ -18,9 +18,11 @@ It also provides **feature importance analysis**, **what-if budget scenarios**, 
 
 ## 🗂️ Project Structure
 ├── data/
+
 │ └── Advertising.csv # Dataset
 
 ├── src/
+
 │ ├── preprocess.py # Load, split, scale data
 │ ├── baseline.py # Baseline model
 │ ├── models.py # Train models (LR, Ridge, SVM)
@@ -30,6 +32,7 @@ It also provides **feature importance analysis**, **what-if budget scenarios**, 
 │ ├── scenario.py # Budget adjustment scenarios
 
 ├── notebook/
+
   ├── Sales_Prediction.ipynb # Main notebook (analysis + demo)
   
 └── README.md # Project documentation
