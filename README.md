@@ -24,11 +24,17 @@ It also provides **feature importance analysis**, **what-if budget scenarios**, 
 ├── src/
 
 │ ├── preprocess.py # Load, split, scale data
+
 │ ├── baseline.py # Baseline model
+
 │ ├── models.py # Train models (LR, Ridge, SVM)
+
 │ ├── evaluation.py # Metrics + plots
+
 │ ├── feature_importance.py # Permutation importance
+
 │ ├── predict.py # Predict sales for user inputs
+
 │ ├── scenario.py # Budget adjustment scenarios
 
 ├── notebook/
