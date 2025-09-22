@@ -39,7 +39,7 @@ It also provides **feature importance analysis**, **what-if budget scenarios**, 
 
 ├── notebook/
 
-  ├── Sales_Prediction.ipynb # Main notebook (analysis + demo)
+│ ├── Sales_Prediction.ipynb # Main notebook (analysis + demo)
   
 └── README.md # Project documentation
 
