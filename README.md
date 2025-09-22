@@ -31,6 +31,8 @@ It also provides **feature importance analysis**, **what-if budget scenarios**, 
 └── README.md # Project documentation
 
 
+
+
 ## 📦 Dependencies
 
 - pandas  
@@ -46,7 +48,7 @@ It also provides **feature importance analysis**, **what-if budget scenarios**, 
 ### 1. Run Jupyter Notebook
 ```bash
 jupyter notebook Sales_Prediction.ipynb
-
+```
 ### 2. Predict Sales (Interactive)
 Inside the notebook, enter **TV, Radio, and Newspaper ad spends** → get predicted sales instantly.
 
